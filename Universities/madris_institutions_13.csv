@@ -1,0 +1,14 @@
+institution_id,institution_name,open_to_xclerks,country_id,med_school,xclerk_interview_required
+4963,"Baqai Medical College, University of Karachi, Pakistan",All,174,Y,Y
+1586,"Laval Univ., Canada",No,44,N,N
+5029,Harvard Divinity School,No,235,N,N
+2558,Santa Clara Univ.,No,235,N,N
+5030,"State Univ. of New York, Stony Brook",No,235,N,N
+5035,King Abdulaziz Univ.,No,196,N,N
+1131,"Guy's Hospital, Univ. of London, United Kingdom",All,234,Y,N
+5037,Oregon Health & Science Univ.,No,235,N,N
+5039,"Ankara Univ., Turkey",No,227,N,Y
+5042,Harvard Grad. School of Design,No,235,N,N
+5045,Chungnam National Univ. School of Med. South Korea,All,124,Y,Y
+5046,Drake University,No,235,N,N
+5049,Grinnell College,No,235,N,N

@@ -1,0 +1,101 @@
+institution_id,institution_name,open_to_xclerks,country_id,med_school,xclerk_interview_required
+4963,"Baqai Medical College, University of Karachi, Pakistan",All,174,Y,Y
+1586,"Laval Univ., Canada",No,44,N,N
+5029,Harvard Divinity School,No,235,N,N
+2558,Santa Clara Univ.,No,235,N,N
+5030,"State Univ. of New York, Stony Brook",No,235,N,N
+5035,King Abdulaziz Univ.,No,196,N,N
+1131,"Guy's Hospital, Univ. of London, United Kingdom",All,234,Y,N
+5037,Oregon Health & Science Univ.,No,235,N,N
+5039,"Ankara Univ., Turkey",No,227,N,Y
+5042,Harvard Grad. School of Design,No,235,N,N
+5045,Chungnam National Univ. School of Med. South Korea,All,124,Y,Y
+5046,Drake University,No,235,N,N
+5049,Grinnell College,No,235,N,N
+5054,"Terna Medical College, India",All,110,Y,N
+5056,"Peninsula Med School - U. of Exeter, United Kingdom",All,234,Y,N
+5057,"Sharma Med College, Maharishi Dayanand U., India",All,110,Y,N
+5059,Shenyang Pharm Univ.,No,51,N,Y
+5061,"Eulji Univ. School of Medicine, South Korea",All,124,Y,Y
+5063,"Deccan Medical Coll., Vijayawada Univ., India",All,110,Y,N
+5068,"Ryukyus Univ. School of Medicine, Japan",All,118,Y,Y
+5071,"Baskent Univ College of Medicine, Turkey",All,227,Y,Y
+4127,"Tianjin Medical Coll., China",All,51,Y,Y
+5072,"Vardhman Mahavir Medical College, India.",All,110,Y,N
+5073,"Paracelsus Medical Univ., Austria",All,16,Y,Y
+4357,"Saga Medical School, Japan",All,118,Y,Y
+5074,"Univ. of Cologne, Germany",All,91,Y,N
+4518,"Quaid-E-Azam Medical Coll., Pakistan",All,174,Y,Y
+5075,"R.N.T. Medical College, Rajasthan Univ., India",All,110,Y,N
+4682,"Belarussian Univ., Minsk",All,24,Y,Y
+5076,"Saint John's College, Maryland",No,235,N,N
+4846,"Albert-Szent-Gyorgy School of Medicine, Hungary",All,108,Y,Y
+5081,"San Juan Bautista School of Medicine, Puerto Rico",US-Canadian,235,Y,N
+5090,"J.S.S. Medical College, India",All,110,Y,N
+5095,"University of Iberoamerica, Faculty of Medicine, Costa Rica",All,59,Y,Y
+4924,"Manba-Datsan Medical Institute, Mongolia",All,153,Y,Y
+5100,"Universidad San Martin de Porres, Peru",All,179,Y,Y
+5104,"Hanyang Univ., College of Medicine, South Korea",All,124,Y,Y
+5113,"Wah Medical College, Pakistan",All,174,Y,Y
+5115,"Univ. of East Anglia Faculty of Medicine, United Kingdom",All,234,Y,N
+4929,"Odessa State Medical Univ., Ukraine",All,232,Y,Y
+4930,"KaoshiungMedical Coll., China",All,51,Y,Y
+5117,"Universidad Mayor de San Andres, Faculty of Medicine, Bolivia",All,30,Y,Y
+4932,"Srinakharinwirot Univ., Thailand",All,221,Y,Y
+5120,"C.U. Shah Medical College, Saurashitra Med Ctr., India",All,110,Y,N
+4934,"Rajah Muthiah Medical Coll., India",All,110,Y,N
+5122,Santa Monica College,No,235,N,N
+4936,"Universidad Privada del Valle, Bolivia",All,30,Y,Y
+5126,DePaul Univ.,No,235,N,N
+5139,"Krishna Inst. of Med. Sciences, India",All,110,Y,N
+5151,"Faculte De Medecine Lyon, Univ. Claude Bernard, France",All,83,Y,Y
+4941,National Medical School of Mali,All,142,Y,Y
+5158,"National Cheng Kung Univ. College of Medicine, Taiwan",All,218,Y,Y
+5171,"SRM Medical College and Research Centre, India",All,110,Y,N
+5183,"Escola Bahiana de Medicina e Saude Publica, Brazil",All,35,Y,Y
+2586,Seton Hall Univ.,No,235,N,N
+5184,"Tokai Univ. School of Medicine, Japan",All,118,Y,Y
+5185,"Univ. of Dammam. Faculty of Medicine, Saudi Arabia",All,196,Y,N
+5186,"Shanghai Jiao Tong Univ. School of Med., China",All,51,Y,Y
+5187,"Federal Univ. of Rio Grande do Sul, Brazil",All,35,Y,Y
+2602,Sheldon Jackson Coll. ,No,235,N,N
+5188,"Dankook Univ. School of Medicine, South Korea",All,124,Y,Y
+5189,University College London,No,234,N,N
+5192,Univ. of Central Florida,No,235,N,N
+5199,Cerritos College,No,235,N,N
+5200,"Univ. of Great Falls, MT",No,235,N,N
+5202,"Umm Al Qura Univ., Faculty of Medicine, Saudi Arabia",All,196,Y,N
+5210,"Univ. of Limerick, Medical School, Ireland",All,114,Y,N
+2620,"Siena Coll., NY",No,235,N,N
+5214,Riverside Comm. Coll.,All,235,N,N
+5215,"Dokkyo Med Univ., Japan",All,118,Y,Y
+5218,"Poznan Univ. of Medical Sciences, Poland",All,182,Y,Y
+5226,"Univ. of Szeged, Faculty of Medicine, Hungary",All,108,Y,Y
+2627,Simmons Coll. ,No,235,N,N
+5236,Al Quds Univ. Medical School,All,253,Y,Y
+5241,"Univ. of Medicine & Surgery, Messina, Italy",All,116,Y,Y
+2630,"Simon Fraser Univ., Canada",No,44,N,N
+2641,Skidmore Coll.,No,235,N,N
+2645,Smith Coll. ,No,235,N,N
+3507,"Univ. of Caraboba School of Medicine, Venezuela",All,241,Y,Y
+5250,"Nepalgunj Med. College, Nepal",All,160,Y,Y
+5274,"Univ. of Bari Faculty of Medicine, Italy",All,116,Y,Y
+5282,Touro Univ. of Osteopathic Medicine - NY,US-Canadian,235,Y,Y
+5321,"Yenepoya Medical College, India",All,110,Y,Y
+5335,"Abia State Univ., Nigeria",All,167,Y,Y
+2962,"Trinity Coll., Ct",No,235,N,N
+5341,"Akdeniz Univ. School of Medicine, Turkey",All,227,Y,Y
+5345,"Dubai Medical College, United Arab Emirates",All,233,Y,Y
+5356,"Peking Univ. Health Science Ctr., China",All,51,Y,Y
+5368,"Third Faculty of Medicine, Charles Univ., Czech Republic",All,65,Y,Y
+5379,"Univ. Ovidius Constanta Fac. of Medicine, Romania",All,187,Y,Y
+5397,Murray State Univ.,No,235,N,Y
+5400,William Carey Univ. Coll. of Osteopathic Medicine,US-Canadian,235,Y,Y
+5422,"Kwame Nkrumah Univ. of Science & Tech., Ghana",No,92,N,Y
+5425,"FH Netter School of Medicine, Quinnipiac Univ.",US-Canadian,235,Y,Y
+5426,"Lebanese American Univ. School of Medicine, Lebanon",All,130,Y,Y
+5429,Central Michigan Univ. College of Medicine,US-Canadian,235,Y,Y
+2983,NULL,No,235,N,N
+2984,Tufts Univ. School of Medicine ,US-Canadian,235,Y,N
+5454,Seattle Pacific Univ.,No,235,N,Y
+5467,Southern California Univ. of Health Sciences,No,235,N,Y

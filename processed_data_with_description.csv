@@ -1,0 +1,116 @@
+,Correct_Degree(my.harvard),Tested_Degree(madris),Rating,
+0,XAA,XAA,100,
+64,XMTS,XMTS,100,
+75,XMSW,XMSW,100,
+74,XPHARMD,XPHARMD,100,
+73,XDO,XDO,100,
+72,XMFA,XMFA,100,
+69,XBSN,XBSN,100,
+68,XMSE,XMSE,100,
+67,XBSE,XBSE,100,
+65,XLLB,XLLB,100,
+60,XSM,XSM,100,
+78,XMHA,XMHA,100,
+59,XSCB,XSCB,100,
+58,XSB,XSB,100,
+1,XAB,XAB,100,
+49,XMSED,XMSED,100,
+48,XMSD,XMSD,100,
+47,XMSC,XMSC,100,
+46,XMS,XMS,100,
+45,XMPP,XMPP,100,
+77,XMBBCH,XMBBCH,100,
+79,XBE,XBE,100,
+43,XMPH,XMPH,100,
+100,XMHS,XMHS,100,
+109,XBMBCH,XBMBCH,100,
+108,XMBBS,XMBBS,100,
+106,XBAS,XBAS,100,
+105,XBPH,XBPH,100,
+104,XBCOM,XBCOM,100,
+103,XBBA,XBBA,100,
+102,XOD,XOD,100,
+101,XBMSC,XBMSC,100,
+97,XBVM,XBVM,100,
+81,XMST,XMST,100,
+95,XLLM,XLLM,100,
+94,XLLB,XLLB,100,
+92,XBL,XBL,100,
+91,XBPHIL,XBPHIL,100,
+87,XDC,XDC,100,
+86,XBSN,XBSN,100,
+83,XMBCHB,XMBCHB,100,
+82,XBSW,XBSW,100,
+44,XMPHIL,XMPHIL,100,
+57,XPHD,XPHD,100,
+42,XMPA,XMPA,100,
+15,XBS,XBS,100,
+27,XEDM,XEDM,100,
+25,XDMSC,XDMSC,100,
+24,XDMD,XDMD,100,
+22,XDDS,XDDS,100,
+41,XMMSC,XMMSC,100,
+19,XCERT,XCERT,100,
+17,XBSEE,XBSEE,100,
+16,XBSC,XBSC,100,
+14,XBMS,XBMS,100,
+31,XMA,XMA,100,
+13,XBME,XBME,100,
+10,XBFA,XBFA,100,
+9,XBEE,XBEE,100,
+8,XBDS,XBDS,100,
+5,XBCD,XBCD,100,
+4,XBA,XBA,100,
+3,XAS,XAS,100,
+2,XAM,XAM,100,
+29,XJD,XJD,100,
+114,XBPHARM,XBPHARM,100,
+36,XMDIV,XMDIV,100,
+32,XMAT,XMAT,100,
+35,XMD,XMD,100,
+38,XMED,XMED,100,
+33,XMBA,XMBA,100,
+51,XNDEG,XND,90,ND = doctor of naturopathic medicine?
+55,XPHARMD,XPH,90,PH = ???
+93,XMLAUD,XML,90,ML = master of laws?
+12,XB,XBMA,90,BMA = bachelor of muscial arts?
+11,XBHSC,XBH,90,BH = ???
+66,XDPH,XDPHIL,90,DPHIL = doctor of philosophy?
+7,XB,XBCH,90,"BCH = bachelor of medicine, bachelor of surgery?"
+85,XMB,XMB BCHIR,90,"MB BCHIR = bachelor of medicine, bachelor of surgery as well?"
+39,XMHSA,XMH,90,MH = master of humanities?
+40,XMMSC,XMM,90,MM = master of management?
+110,XDMSC,XDMSC ORAL BIOLOGY,90,DMSC = doctor of medical science? Dmsc exists within madris but this one has oral biology
+111,XMMSC,XMMSC DENTAL EDUCATION,90,MMSC = master of medical science? Mmsc already exists as well
+113,XMI,XMINDS,90,MINDS = master of indigenous studies?
+6,XB,XBCE,90,BCE = bachelor of civil engineering?
+90,XB,XBHS,90,BHS = bachelor of health science?
+84,XBT,XBTECH,90,BTECH = bachelor of technology?
+61,XSPEC,XSP,90,SP = specialist degree?
+18,XB,XBSI,90,BSI = bachelor of science in information?
+71,XMS,XMSEE,90,MSEE = master of science in electrical engineering?
+20,XCERT,XCERTIFICATE,90,CERTIFICATE = just a generic certificate?
+76,XMS,XMS-MBA,90,MS-MBA = master of science/master of business administration?
+80,XMB,XMBIOETHICS,90,MBIOETHICS = master of bioethics?
+37,XMDES,XMDS,89,MDS = master of dental surgery?
+56,XPHD,XPH D,89,XPH D = master of philosophy? Space in degree is maybe just a error?
+99,XMHA,XMHAP,89,MHAP = master of health administration and policy?
+98,XMPVM,XMVM,89,MVM = master of veterinary medicine?
+26,XDMSC,XDSC,89,DSC = doctor of science?
+96,XMHS,XMHQS,89,MHQS = master of healthcare quality and safety?
+112,XMDR,XMUDR,89,MUDR = master of general medicine?
+28,XBENG,XENG,89,ENG = bachelor of engineering?
+88,XDHS,XDHSC,89,DHSC = doctor of health science?
+50,XMSSE,XMSS,89,MSS = master of social service?
+21,XDD,XDCD,86,DCD = ??? 
+23,XDM,XDEM,86,DEM = doctor of emergency management?
+34,XMD,XMBD,86,MBD = ???
+53,XOTHERCR,XOTHER,86,OTHER = literally just means other???
+30,XDS,XLDS,86,LDS = license in dental surgery?
+89,XMB,XMBI,86,MBI = master of biomedical informatics or master of business informatics???
+54,XOTHERDG,XOTHER DEGREES,79,OTHER  DEGREES = also just another instance of other???
+63,XNDEG,XUNDETERMINED,72,UNDETERMINED = literally just undetermined?
+52,XNDEG,XNON-DEGREE,72,NON-DEGREE= literally just non-degree?
+62,XSTAT,XTAN,67,TAN = ???
+70,XBNUT,XRN,60,RN = registered nurse???
+107,XMA,XNAN,57,"NAN does not show up in madris, might be a result of the empty row???"

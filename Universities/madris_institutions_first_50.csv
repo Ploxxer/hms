@@ -1,0 +1,50 @@
+institution_id,institution_name,open_to_xclerks,country_id,med_school,xclerk_interview_required
+4963,"Baqai Medical College, University of Karachi, Pakistan",All,174,Y,Y
+1586,"Laval Univ., Canada",No,44,N,N
+5029,Harvard Divinity School,No,235,N,N
+2558,Santa Clara Univ.,No,235,N,N
+5030,"State Univ. of New York, Stony Brook",No,235,N,N
+5035,King Abdulaziz Univ.,No,196,N,N
+1131,"Guy's Hospital, Univ. of London, United Kingdom",All,234,Y,N
+5037,Oregon Health & Science Univ.,No,235,N,N
+5039,"Ankara Univ., Turkey",No,227,N,Y
+5042,Harvard Grad. School of Design,No,235,N,N
+5045,Chungnam National Univ. School of Med. South Korea,All,124,Y,Y
+5046,Drake University,No,235,N,N
+5049,Grinnell College,No,235,N,N
+5054,"Terna Medical College, India",All,110,Y,N
+5056,"Peninsula Med School - U. of Exeter, United Kingdom",All,234,Y,N
+5057,"Sharma Med College, Maharishi Dayanand U., India",All,110,Y,N
+5059,Shenyang Pharm Univ.,No,51,N,Y
+5061,"Eulji Univ. School of Medicine, South Korea",All,124,Y,Y
+5063,"Deccan Medical Coll., Vijayawada Univ., India",All,110,Y,N
+5068,"Ryukyus Univ. School of Medicine, Japan",All,118,Y,Y
+5071,"Baskent Univ College of Medicine, Turkey",All,227,Y,Y
+4127,"Tianjin Medical Coll., China",All,51,Y,Y
+5072,"Vardhman Mahavir Medical College, India.",All,110,Y,N
+5073,"Paracelsus Medical Univ., Austria",All,16,Y,Y
+4357,"Saga Medical School, Japan",All,118,Y,Y
+5074,"Univ. of Cologne, Germany",All,91,Y,N
+4518,"Quaid-E-Azam Medical Coll., Pakistan",All,174,Y,Y
+5075,"R.N.T. Medical College, Rajasthan Univ., India",All,110,Y,N
+4682,"Belarussian Univ., Minsk",All,24,Y,Y
+5076,"Saint John's College, Maryland",No,235,N,N
+4846,"Albert-Szent-Gyorgy School of Medicine, Hungary",All,108,Y,Y
+5081,"San Juan Bautista School of Medicine, Puerto Rico",US-Canadian,235,Y,N
+5090,"J.S.S. Medical College, India",All,110,Y,N
+5095,"University of Iberoamerica, Faculty of Medicine, Costa Rica",All,59,Y,Y
+4924,"Manba-Datsan Medical Institute, Mongolia",All,153,Y,Y
+5100,"Universidad San Martin de Porres, Peru",All,179,Y,Y
+5104,"Hanyang Univ., College of Medicine, South Korea",All,124,Y,Y
+5113,"Wah Medical College, Pakistan",All,174,Y,Y
+5115,"Univ. of East Anglia Faculty of Medicine, United Kingdom",All,234,Y,N
+4929,"Odessa State Medical Univ., Ukraine",All,232,Y,Y
+4930,"KaoshiungMedical Coll., China",All,51,Y,Y
+5117,"Universidad Mayor de San Andres, Faculty of Medicine, Bolivia",All,30,Y,Y
+4932,"Srinakharinwirot Univ., Thailand",All,221,Y,Y
+5120,"C.U. Shah Medical College, Saurashitra Med Ctr., India",All,110,Y,N
+4934,"Rajah Muthiah Medical Coll., India",All,110,Y,N
+5122,Santa Monica College,No,235,N,N
+4936,"Universidad Privada del Valle, Bolivia",All,30,Y,Y
+5126,DePaul Univ.,No,235,N,N
+5139,"Krishna Inst. of Med. Sciences, India",All,110,Y,N
